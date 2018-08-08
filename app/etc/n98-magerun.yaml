@@ -1,0 +1,10 @@
+autoloaders:
+  # Namespace => path to your libs
+  AligentN98: %root%/utils/commands
+
+  # or in project based config i.e.:
+  # MyCommandNamespace: %root%/lib
+
+commands:
+  customCommands:
+    - AligentN98\Dev\MediaPullCommand

@@ -1,0 +1,6 @@
+{
+  "name": "aligent/magerun-addons",
+  "description": "Addon commands for n98magerun",
+  "type": "magento-module",
+  "license": "MIT"
+}
